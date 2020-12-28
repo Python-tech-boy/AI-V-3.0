@@ -1,0 +1,7 @@
+Hello there user !
+
+In this version, the program is provided with a Dependency Installer . This file helps in install the "Python dependencies" required for the AI to work.
+
+Please run the "dependency.bat" file, in order to install all the dependencies required.
+
+Thanks!
